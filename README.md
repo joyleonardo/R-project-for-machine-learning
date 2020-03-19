@@ -2,9 +2,13 @@
 it is my final project in York Univercity
 
 the data resouse is follow links:
+
 reference paper section 5.1 for the description of the data:http://www.ee.columbia.edu/ln/dvmm/publications/05/ng_cgdataset_05.pdf
+
 columbiaImages (downloaded from github):https://xingao.info.yorku.ca/files/2020/01/columbiaImages.zip?x99325
+
 photoMetaData (downloaded from github):https://xingao.info.yorku.ca/files/2020/01/photoMetaData.csv
+
 math3333projectsamplecode (acknowledgement:from online source):https://xingao.info.yorku.ca/files/2020/01/math3333projectsamplecode.txt
 
 
